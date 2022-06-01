@@ -1,0 +1,7 @@
+organization=pedrodominguezutec
+projectKey=PedroDominguezUTEC_lab-unit-testing
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.29375
+dashboardUrl=https://sonarcloud.io/dashboard?id=PedroDominguezUTEC_lab-unit-testing
+ceTaskId=AYEdHLTgbinnAi3dwIZD
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYEdHLTgbinnAi3dwIZD
